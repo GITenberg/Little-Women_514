@@ -1,5 +1,5 @@
 _repo: Little-Women_514
-_version: 0.2.1
+_version: 0.2.2
 covers:
 - attribution: Lia Marcoux, 2015
   cover_type: original
@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '102'
     url: http://www.gutenberg.org/2009/agents/102
     wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/514#Little-Women
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '1996-05-01'
 gutenberg_type: Text
